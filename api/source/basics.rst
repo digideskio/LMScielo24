@@ -88,7 +88,7 @@ Transcription and translation are supported in the following languages:
 +---------------------+--------------------+
 | Italian             | it                 |
 +---------------------+--------------------+
-| Japanese            | jp                 |
+| Japanese            | ja                 |
 +---------------------+--------------------+
 | Korean              | ko                 |
 +---------------------+--------------------+
